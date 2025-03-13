@@ -20,7 +20,7 @@ const Footer = () => {
         { src: linkedin, alt: "LinkedIn" }
     ];
     return (
-        <div>
+        <div className="mb-8">
             <div className="flex flex-row">
                 <div className="flex flex-col h-auto border rounded-2xl mt-8 mx-2 sm:mx-10 md:mx-30 border-gray-300 ">
                     <div >
